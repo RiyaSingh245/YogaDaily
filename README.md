@@ -2,6 +2,7 @@ YOGA DAILY
 
 
 SCREENSHOTS
+
 ![Screenshot_1685068108](https://github.com/RiyaSingh245/YogaDaily/assets/126529318/9708db1f-b957-4d81-8b88-11d5f7579bcc)
 ![Screenshot_1685068111](https://github.com/RiyaSingh245/YogaDaily/assets/126529318/d9abb2b7-2d44-45c8-9b15-70dcf171ca80)
 ![Screenshot_1685068129](https://github.com/RiyaSingh245/YogaDaily/assets/126529318/1f705f99-786b-4b0e-8739-0418a9c9f537)
